@@ -32,5 +32,4 @@ This repository documents my hands-on journey toward becoming a Cloud Security E
 - Configure least-privilege IAM permissions
 - Investigate sample cloud security logs
 
-## Notes
 All projects will use safe lab environments. No passwords, access keys, or other secrets will be published.
